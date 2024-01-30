@@ -562,11 +562,6 @@ main {
 
 /* Modal */
 .backdrop {
-    display: none;
-}
-
-.backdrop.is-open {
-    display: block;
     position: fixed;
     top: 0;
     left: 0;

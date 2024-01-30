@@ -51,12 +51,6 @@ main {
     outline: none;
 }
 
-.page-container {
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-}
-
 .link {
     text-decoration: none;
 }
